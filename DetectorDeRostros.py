@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Cargar las imágenes de referencia desde la carpeta de rostros
-folder_path = "C:/Users/marco/Desktop/Deteccion-de-rostros-Clase-8-main/rostros"
+folder_path = "./rostros"
 known_face_encodings = []
 known_face_names = []
 
